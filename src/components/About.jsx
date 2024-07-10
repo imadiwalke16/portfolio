@@ -40,7 +40,7 @@ function About() {
           <span></span>
           <br />
           <br /> */}
-          <h1 className="text-green-500 text-xl font-bold">Experince</h1>
+          <h1 className="text-green-500 text-xl font-bold">Experience</h1>
           <span>
             <h1 className="font-bold text-xl">Developer Intern</h1>
             <p className="text-md font-thin">Organisation-TechnoArtz</p>
