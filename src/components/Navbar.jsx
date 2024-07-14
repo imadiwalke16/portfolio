@@ -22,7 +22,7 @@ function Navbar() {
     },
     {
       id: 4,
-      text: "Experince",
+      text: "Experience",
     },
     {
       id: 5,
