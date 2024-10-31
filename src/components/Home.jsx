@@ -37,7 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm text-justify md:text-md">
-              "Aspiring IT Engineer | Passionate about Technology & Innovation |
+              "Aspiring Software Engineer | Passionate about Technology & Innovation |
               VIIT Student"
             </p>
             <br />

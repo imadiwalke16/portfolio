@@ -19,15 +19,15 @@ function About() {
           <h1 className="text-green-500 text-xl font-bold">Education</h1>
           <span>
             <h1 className="font-bold text-xl">
-              Vishwakarma Institue Of Information Technology{" "}
+              Vishwakarma Institute Of Information Technology
             </h1>
             <p className="text-md font-thin">
-              Btech-Information Technology <br />
+              BTech-Information Technology <br />
               Grade-7.52 <br /> Graduation Year-2026
             </p>
             <br />
             <h1 className="py- text-xl font-bold">
-              Jaywantrao Sawant Polytechnic{""}
+              Jaywantrao Sawant Polytechnic
             </h1>
             <p className="text-md font-thin">
               Diploma-Information Technology <br /> Grade-9.82 <br />
@@ -36,22 +36,25 @@ function About() {
           </span>
           <br />
           <br />
-          {/* <h1 className="text-green-500 text-xl font-bold ">Skills</h1>
-          <span></span>
-          <br />
-          <br /> */}
           <h1 className="text-green-500 text-xl font-bold">Experience</h1>
           <span>
-            <h1 className="font-bold text-xl">Developer Intern</h1>
-            <p className="text-md font-thin">Organisation-TechnoArtz</p>
+            <h1 className="font-bold text-xl">Academia Intern</h1>
+            <p className="text-md font-thin">Organisation-CDK Global</p>
             <p className="text-md font-thin">Duration-Present</p>
           </span>
           <br />
           <br />
-          <h1 className="text-green-500 text-xl font-bold">Achivements</h1>
+          <span>
+            <h1 className="font-bold text-xl">Developer Intern</h1>
+            <p className="text-md font-thin">Organisation-TechnoArtz</p>
+            <p className="text-md font-thin">Duration-Completed August 2023</p>
+          </span>
+          <br />
+          <br />
+          <h1 className="text-green-500 text-xl font-bold">Achievements</h1>
           <span>
             <h1 className="text-xl font-bold">
-              1st Rank holder MIT School of Computing Project Expo2k23
+              1st Rank holder MIT School of Computing Project Expo 2k23
             </h1>
             <p className="text-md font-thin">
               Issued by MIT SCHOOL OF COMPUTING LONI PUNE · Feb 2023
@@ -59,16 +62,29 @@ function About() {
           </span>
           <br />
           <br />
-          {/* <h1 className="text-green-500 text-xl font-bold">
-            Proficient Languages
-          </h1>
-          <span>
-            <ul className="items-center">
-              <li className="text-sm font-thin">English</li>
-              <li className="text-sm font-thin">Hindi</li>
-              <li className="text-sm font-thin">Marathi</li>
-            </ul>
-          </span> */}
+
+          {/* Download Resume Section */}
+          <div className="resume-section">
+            <h1 className="text-green-500 text-xl font-bold">Resume</h1>
+            <div className="flex gap-4">
+              <a
+                href="https://drive.google.com/file/d/1ydfQ5k0NFPGQ655ktZ12lB56lDV14U0P/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-resume-btn px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+              >
+                View Resume
+              </a>
+              <a
+                href="https://drive.google.com/file/d/1ydfQ5k0NFPGQ655ktZ12lB56lDV14U0P/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="download-resume-btn px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700"
+              >
+                Download Resume
+              </a>
+            </div>
+          </div>
         </div>
       </div>
       <hr />

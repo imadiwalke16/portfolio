@@ -6,6 +6,7 @@ import Portfolio from "./components/Portfolio";
 import Experiance from "./components/Experiance";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+// import Resume from "./components/Resume";
 import { Toaster, toast } from "react-hot-toast";
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Home></Home>
         <About></About>
         <Portfolio></Portfolio>
+       
         <Experiance></Experiance>
         <Contact></Contact>
         <Footer></Footer>
