@@ -17,6 +17,7 @@ function About() {
           </p>
           <br />
           <h1 className="text-green-500 text-xl font-bold">Education</h1>
+          <br />
           <span>
             <h1 className="font-bold text-xl">
               Vishwakarma Institute Of Information Technology
@@ -37,6 +38,7 @@ function About() {
           <br />
           <br />
           <h1 className="text-green-500 text-xl font-bold">Experience</h1>
+          <br />
           <span>
             <h1 className="font-bold text-xl">Academia Intern</h1>
             <p className="text-md font-thin">Organisation-CDK Global</p>
@@ -52,6 +54,7 @@ function About() {
           <br />
           <br />
           <h1 className="text-green-500 text-xl font-bold">Achievements</h1>
+          <br />
           <span>
             <h1 className="text-xl font-bold">
               1st Rank holder MIT School of Computing Project Expo 2k23
@@ -66,6 +69,7 @@ function About() {
           {/* Download Resume Section */}
           <div className="resume-section">
             <h1 className="text-green-500 text-xl font-bold">Resume</h1>
+            <br />
             <div className="flex gap-4">
               <a
                 href="https://drive.google.com/file/d/1ydfQ5k0NFPGQ655ktZ12lB56lDV14U0P/view?usp=sharing"
